@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.drozdova.expressionlib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_drozdova_expressionlib_jar</output-path>
+    <root id="archive" name="ExpressionLib.jar">
+      <element id="module-output" name="ExpressionLib" />
+    </root>
+  </artifact>
+</component>
